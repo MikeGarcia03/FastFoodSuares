@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fd0303</color>
+    <color name="colorPrimaryDark">#060606</color>
+    <color name="colorAccent">#060606</color>
+    <!--<color name="notificationBar">#060606</color>-->
+    <!--<color name="titleBar">#fd0303</color>-->
+    <!--<color name="others">#060606</color>-->
+</resources>

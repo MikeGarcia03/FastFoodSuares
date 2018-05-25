@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Suarez Fast Food Restaurant</string>
+    <string name="des_location">Manolo Ortiz street, next to Perpetuo Socorro Elementary School</string>
+    <string name="contact">(809) 524-0011 (809) 538-0012</string>
+    <string name="email">suaresfastfoodres@food.com</string>
+    <string name="description">Description</string>
+    <string name="business_description">Fast food restaurant of Suarez is a place where you can find
+        a great variety of delicious dominican food plates, such as: the dominican flag, which is
+        prepared with rice, beans and meat, and others.</string>
+</resources>
